@@ -1,7 +1,3 @@
-h1 {
-    color:blue;
-}
-/* define font-face */
 @font-face {
     font-family: 'Oscine';
     src: url('https://github.com/UsabitGavelino/Ciclic/blob/66834e45ed41abad13782c0999006c267fcd25a9/font-oscine/Oscine_Lt.ttf') format('truetype'),
