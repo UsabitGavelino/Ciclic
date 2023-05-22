@@ -3,6 +3,7 @@
     src: url('https://github.com/UsabitGavelino/Ciclic/blob/66834e45ed41abad13782c0999006c267fcd25a9/font-oscine/Oscine_Lt.ttf') format('truetype'),
 		url('https://github.com/UsabitGavelino/Ciclic/blob/66834e45ed41abad13782c0999006c267fcd25a9/font-oscine/Oscine_W_Bd.woff') format('woff'),
 		url('https://github.com/UsabitGavelino/Ciclic/blob/66834e45ed41abad13782c0999006c267fcd25a9/font-oscine/Oscine_W_Bd.woff2') format('woff2'),
+		url('https://github.com/UsabitGavelino/Ciclic/blob/f4600333345372f1367c4e6ceb11ac3f254e6d93/font-oscine/Oscine_W_Bd.eot') format('eot'),
     font-weight: bold;
     font-style: normal;
 }
@@ -12,6 +13,7 @@
     src: url('https://github.com/UsabitGavelino/Ciclic/blob/66834e45ed41abad13782c0999006c267fcd25a9/font-oscine/Oscine_Lt.ttf') format('truetype'),
 		url('https://github.com/UsabitGavelino/Ciclic/blob/66834e45ed41abad13782c0999006c267fcd25a9/font-oscine/Oscine_W_Rg.woff') format('woff'),
 		url('https://github.com/UsabitGavelino/Ciclic/blob/66834e45ed41abad13782c0999006c267fcd25a9/font-oscine/Oscine_W_Rg.woff2') format('woff2'),
+		url('https://github.com/UsabitGavelino/Ciclic/blob/f4600333345372f1367c4e6ceb11ac3f254e6d93/font-oscine/Oscine_W_Rg.eot') format('eot'),
     font-weight: regular;
     font-style: normal;
 }
